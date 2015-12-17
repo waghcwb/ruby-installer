@@ -1,7 +1,6 @@
 # ruby-installer
 installs the ruby 2.0
 
-```sh
-chmod +x ruby2.0-installer.sh
-./ruby2.0-installer.sh
+```shell
+curl https://raw.githubusercontent.com/waghcwb/ruby-installer/master/ruby2.0-installer.sh | bash
 ```
